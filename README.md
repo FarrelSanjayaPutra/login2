@@ -37,7 +37,7 @@
 
             <button type="submit" class="btn">Login</button>
             <div class="register">
-                <p>tidak punya akun?<a href="http://127.0.0.1:5501/page2/register.html?#"> Daftar</a></p>
+                <p>tidak punya akun?<a href="http://127.0.0.1:5501/page2/register.html?#">Daftar</a></p>
             </div>
            </form> 
         </div>
